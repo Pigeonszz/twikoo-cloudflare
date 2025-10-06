@@ -112,7 +112,7 @@ const sha256 = getSha256()
 const xml2js = getXml2js()
 
 const { RES_CODE, MAX_REQUEST_TIMES } = constants
-const VERSION = '1.6.40'
+const VERSION = '1.6.44'
 
 // 全局变量 / variables
 let config
