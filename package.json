@@ -1,6 +1,6 @@
 {
   "name": "twikoo-cloudflare",
-  "version": "1.6.40",
+  "version": "1.6.44",
   "description": "A simple, safe, free comment system.",
   "author": "Tao Xin <tao@vanjs.org> (https://github.com/Tao-VanJS), Mingy <master@mingy.org> (https://github.com/wuzhengmao)",
   "license": "MIT",
